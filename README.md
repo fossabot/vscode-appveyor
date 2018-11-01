@@ -5,6 +5,7 @@
 [![Travis](https://img.shields.io/travis/ivangabriele/vscode-appveyor.svg?style=flat-square)](https://travis-ci.org/ivangabriele/vscode-appveyor)
 [![David](https://img.shields.io/david/ivangabriele/vscode-appveyor.svg?style=flat-square)](https://david-dm.org/ivangabriele/vscode-appveyor?type=dev)
 [![David](https://img.shields.io/david/dev/ivangabriele/vscode-appveyor.svg?style=flat-square)](https://david-dm.org/ivangabriele/vscode-appveyor?type=dev)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fivangabriele%2Fvscode-appveyor.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fivangabriele%2Fvscode-appveyor?ref=badge_shield)
 
 ---
 
@@ -45,3 +46,7 @@ To be able to contribute to TFS development, you need to be at ease with **Types
 - [AppVeyor extension on Github](https://github.com/ivangabriele/vscode-appveyor)
 - [AppVeyor extension on Visual Studio Market Place](https://marketplace.visualstudio.com/items/ivangabriele.vscode-appveyor)
 - [MIT Licence](https://github.com/ivangabriele/vscode-appveyor/blob/master/LICENSE)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fivangabriele%2Fvscode-appveyor.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fivangabriele%2Fvscode-appveyor?ref=badge_large)
